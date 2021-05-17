@@ -20,7 +20,6 @@ C:\Projetos\CalculaJuros\CalculaJuros\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dl
 C:\Projetos\CalculaJuros\CalculaJuros\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
 C:\Projetos\CalculaJuros\CalculaJuros\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
 C:\Projetos\CalculaJuros\CalculaJuros\bin\Debug\netcoreapp3.1\YamlDotNet.dll
-C:\Projetos\CalculaJuros\CalculaJuros\obj\Debug\netcoreapp3.1\CalculaJuros.csprojAssemblyReference.cache
 C:\Projetos\CalculaJuros\CalculaJuros\obj\Debug\netcoreapp3.1\CalculaJuros.AssemblyInfoInputs.cache
 C:\Projetos\CalculaJuros\CalculaJuros\obj\Debug\netcoreapp3.1\CalculaJuros.AssemblyInfo.cs
 C:\Projetos\CalculaJuros\CalculaJuros\obj\Debug\netcoreapp3.1\CalculaJuros.csproj.CoreCompileInputs.cache

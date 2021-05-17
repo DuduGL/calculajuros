@@ -10,7 +10,9 @@ namespace CalculaJuros.Services.Implementations
     {
         public string ShowMeTheCode()
         {
-            throw new NotImplementedException();
+            return codeUrl;
         }
+
+        private string codeUrl => "https://github.com/DuduGL?tab=repositories";
     }
 }

@@ -7,6 +7,6 @@ namespace CalculaJuros.Services.Interfaces
 {
     public interface ICalculaJurosService
     {
-        decimal CalculaJuros(decimal valor, int mes);
+        Task<decimal> CalculaJuros(decimal valor, int mes);
     }
 }

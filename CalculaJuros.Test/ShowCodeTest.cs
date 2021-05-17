@@ -22,7 +22,7 @@ namespace CalculaJuros.Test
             string code = showCodeService.ShowMeTheCode();
 
             //assert
-            Assert.Equals(code, "https://github.com/DuduGL?tab=repositories");
+            Assert.AreEqual(code, "https://github.com/DuduGL?tab=repositories");
         }
     }
 }

@@ -1,3 +1,4 @@
+using CalculaJuros.Model;
 using CalculaJuros.Services.Implementations;
 using CalculaJuros.Services.Interfaces;
 using Microsoft.AspNetCore.Builder;
@@ -34,6 +35,9 @@ namespace CalculaJuros
             });
             services.AddScoped<ICalculaJurosService, CalculaJurosService>();
             services.AddScoped<IShowCodeService, ShowCodeService>();
+
+            IConfigurationSection externalAPIUrlsSection = Configuration.GetSection("ExternalAPIUrls");
+            services.Configure<ExternalAPIUrls>(externalAPIUrlsSection);
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
