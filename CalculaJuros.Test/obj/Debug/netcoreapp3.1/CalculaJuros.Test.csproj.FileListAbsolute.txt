@@ -117,3 +117,4 @@ C:\Projetos\CalculaJuros\CalculaJuros.Test\obj\Debug\netcoreapp3.1\CalculaJuros.
 C:\Projetos\CalculaJuros\CalculaJuros.Test\obj\Debug\netcoreapp3.1\CalculaJuros.Test.pdb
 C:\Projetos\CalculaJuros\CalculaJuros.Test\obj\Debug\netcoreapp3.1\CalculaJuros.Test.genruntimeconfig.cache
 C:\Projetos\CalculaJuros\CalculaJuros.Test\obj\Debug\netcoreapp3.1\CalculaJuros.Test.csprojAssemblyReference.cache
+C:\Projetos\CalculaJuros\CalculaJuros.Test\bin\Debug\netcoreapp3.1\Dockerfile
