@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "ho2BFDrCadTfCyjQUqyYdTmSsv+K7pA2mprwhH8XaeSoIdwkuN7MrAfudMWawakD8DYi30ZpqZKLnFVojaulBw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\CalculaJuros\\CalculaJuros\\CalculaJuros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.0\\microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.0\\microsoft.extensions.fileproviders.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.0\\microsoft.extensions.fileproviders.embedded.3.1.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\namotion.reflection\\1.0.23\\namotion.reflection.1.0.23.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\njsonschema\\10.4.3\\njsonschema.10.4.3.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\njsonschema.yaml\\10.4.3\\njsonschema.yaml.10.4.3.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\nswag.annotations\\13.11.1\\nswag.annotations.13.11.1.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\nswag.aspnetcore\\13.11.1\\nswag.aspnetcore.13.11.1.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\nswag.core\\13.11.1\\nswag.core.13.11.1.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\nswag.core.yaml\\13.11.1\\nswag.core.yaml.13.11.1.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\nswag.generation\\13.11.1\\nswag.generation.13.11.1.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\nswag.generation.aspnetcore\\13.11.1\\nswag.generation.aspnetcore.13.11.1.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\yamldotnet\\9.1.4\\yamldotnet.9.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
