@@ -17,7 +17,7 @@ namespace CalculaJuros.Test
         {
             ExternalAPIUrls externalAPIUrls = new ExternalAPIUrls()
             {
-                TaxaJurosAPIUrl = "https://localhost:5001"
+                TaxaJurosAPIUrl = "http://localhost:5004"
             };
             IOptions<ExternalAPIUrls> externalAPIUrlsOptions = Options.Create(externalAPIUrls);
             calculaJurosService = new CalculaJurosService(externalAPIUrlsOptions);
